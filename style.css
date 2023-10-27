@@ -1,27 +1,93 @@
 body{
-    background-color:black;
-    color: aliceblue;
+    background: rgb(255,212,177);
+    background: linear-gradient(357deg, rgba(255,212,177,1) 0%, rgba(249,157,59,1) 100%);    color: aliceblue;
+    background-repeat: no-repeat;
+
 }
 
 h1{
     text-align: center;
-    background-color: yellow;
-    color: green;
+    background-color: #1555B5;
+    color: rgb(249,157,59,1);
+    background-color: #1555B5;
+    border-radius: 41px 0px 42px 0px;
+    box-shadow: 1px 1px #ffffff;
+    margin: 0 50px 10px 50px;
+    font-size: 40px;
 }
 
 p{
-color: blue;
-background-color: yellow;
+color: #1555B5;
+font-size: larger;
 }
 
-#Contatos{
-    color: blue;
-    background-color: rgb(243, 209, 157);
+#contato{
+    color: #ffffff;
+    margin-left: 15px;
+    text-align: center;
+    margin-top: 30px;
+    background-color: #1555B5;
+    border-radius: 41px 0px 42px 0px;
+    box-shadow: 1px 1px #ffffff;
+    margin: 0 50px 40px 50px;
+    box-shadow: 10px 10px 19px 0px #e9e6e0bf;
+
 
 }
 
-.end{
-    color: black;
-    background-color: white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+#end{
+    color: #ffffff;
+    margin-left: 15px;
+    text-align: center;
+    margin-top: 30px;
+    background-color: #1555B5;
+    border-radius: 41px 0px 42px 0px;
+    box-shadow: 1px 1px #ffffff;
+    margin: 0 50px 40px 50px;
+    box-shadow: 10px 10px 19px 0px #e9e6e0bf;
+
+}
+
+#logo{
+    margin-bottom: -50px;
+    margin-left: 69px;
+
+}
+
+.Hist{
+    text-align: center;
+    font-size: 40px;
+    color: #1555B5 ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform:;
+}
+
+.links{
+    text-align: center;
+    background-color: antiquewhite;
+    border-radius: 30px;
+    box-shadow: 10px 10px 19px 0px #e4a022bf;
+    margin-bottom: 50px;
+    margin: 0 50px 20px 50px;
+
+
+}
+.T2{
+    text-align: center;
+    background-color: antiquewhite;
+    border-radius: 30px;
+    box-shadow: 10px 10px 19px 0px #e4a022bf;
+    margin-bottom: 10px;
+    margin: 0 50px 20px 50px;
+
+
+}
+.T3{
+    text-align: center;
+    background-color: antiquewhite;
+    border-radius: 30px;
+    box-shadow: 10px 10px 19px 0px #e4a022bf;
+    margin-bottom: 10px;
+    margin: 0 50px 20px 50px;
+
 }
