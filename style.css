@@ -1,0 +1,27 @@
+body{
+    background-color:black;
+    color: aliceblue;
+}
+
+h1{
+    text-align: center;
+    background-color: yellow;
+    color: green;
+}
+
+p{
+color: blue;
+background-color: yellow;
+}
+
+#Contatos{
+    color: blue;
+    background-color: rgb(243, 209, 157);
+
+}
+
+.end{
+    color: black;
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
